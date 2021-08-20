@@ -1,4 +1,4 @@
-### Hi, there :wave:
+## Hi, there :wave:
 
 - :heart: In love with mobile development
 - :speech_balloon: Ask me about anything, I am happy to help
