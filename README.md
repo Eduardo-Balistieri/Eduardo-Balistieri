@@ -1,7 +1,7 @@
 ## Hi, there :wave:
 
 - :speech_balloon: Ask me about anything, I am happy to help
-- :telescope: I'm currently learning Kotlin / Android
+- :telescope: I'm currently learning NodeJS
 - :sunny: Praise the Sun !
 
 #### You can find me on :point_down:
