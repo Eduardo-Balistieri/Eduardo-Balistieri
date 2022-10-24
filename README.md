@@ -1,7 +1,8 @@
 ## Hi, there :wave:
 
 - :speech_balloon: Ask me about anything, I am happy to help
-- :telescope: I'm currently learning NodeJS
+- :telescope: I'm working with NodeJS and Oracle Integration Cloud
+- :mage: Machine learning and mobile development enthusiast
 - :sunny: Praise the Sun !
 
 #### You can find me on :point_down:
