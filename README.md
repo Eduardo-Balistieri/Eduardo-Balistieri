@@ -1,7 +1,6 @@
 ## Hi, there :wave:
 
 - :speech_balloon: Ask me about anything, I am happy to help
-- :telescope: I'm working with NodeJS and Oracle Integration Cloud
 - :mage: Back-end and mobile development enthusiast
 - :sunny: Praise the Sun !
 
