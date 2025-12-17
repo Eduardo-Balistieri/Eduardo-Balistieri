@@ -1,7 +1,8 @@
-## Hi, there :wave:
+## Hi there, I'm Eduardo! :wave:
 
-- :mage: I'm interested in web and mobile development, cloud and software architecture
+- :mortar_board: While my GitHub highlights my early passion for **React Native/React & Animations**, my professional focus has evolved to **Backend Engineering and Software Architecture**
 - :speech_balloon: Ask me about anything, I am happy to help
+- :art: I still love Frontend! So, check out my pinned repositories
 
 #### You can find me on :point_down:
 
