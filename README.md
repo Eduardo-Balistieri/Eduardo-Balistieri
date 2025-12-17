@@ -1,8 +1,7 @@
 ## Hi, there :wave:
 
+- :mage: I'm interested in web and mobile development, cloud and software architecture
 - :speech_balloon: Ask me about anything, I am happy to help
-- :mage: Back-end and mobile development enthusiast
-- :sunny: Praise the Sun !
 
 #### You can find me on :point_down:
 
